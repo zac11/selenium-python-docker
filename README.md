@@ -87,7 +87,7 @@ this will start the selenium execution.
 
 Since we already designed one test case to pass and one to fail, it will show one pass and one failed. Sample output
 
-`root@010baba0f715:/usr/workspace# python demo_use_case.py 
+```root@010baba0f715:/usr/workspace# python demo_use_case.py 
 test_case_1 (__main__.TestCaseTemp) ... ok
 test_case_2 (__main__.TestCaseTemp) ... FAIL
 
@@ -112,6 +112,6 @@ AssertionError: no such element: Unable to locate element: {"method":"css select
 ----------------------------------------------------------------------
 Ran 2 tests in 19.768s
 
-FAILED (failures=1)`
+FAILED (failures=1)```
 
 
