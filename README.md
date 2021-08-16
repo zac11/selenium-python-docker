@@ -4,7 +4,7 @@
 This is just a sample of how to run Selenium test cases with a Docker image.
 
 ## Docker Image
-The docker image is take from here - [https://github.com/joyzoursky/docker-python-chromedriver](Repo)
+The docker image is take from here - [https://github.com/joyzoursky/docker-python-chromedriver]( Repo )
 
 Shout out to creator `joyzoursky` for this repo. You can really use any other python versions from his repo and
 use the docker file to run the test cases.
@@ -25,7 +25,7 @@ for eg, the latest version is 4.0.0.b4 as of June 8,2021, so you would need to d
 ## Test Script
 
 It is a very simple test script. The sample test script tries to go to the
-[https://the-internet.herokuapp.com/](Internet Heroku) page and perform a couple of click operations
+[https://the-internet.herokuapp.com/]( Internet ) page and perform a couple of click operations
 
 The script contains a test case that passes and a test case that fails.
 
