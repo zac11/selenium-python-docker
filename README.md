@@ -4,7 +4,8 @@
 This is just a sample of how to run Selenium test cases with a Docker image.
 
 ## Docker Image
-The docker image is take from here - [https://github.com/joyzoursky/docker-python-chromedriver](Github_Repo)
+The docker image is take from here - [https://github.com/joyzoursky/docker-python-chromedriver](GithubRepo)
+
 Shout out to creator `joyzoursky` for this repo. You can really use any other python versions from his repo and
 use the docker file to run the test cases.
 
